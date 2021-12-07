@@ -1,0 +1,9 @@
+MANIFEST.in
+Readme.txt
+setup.py
+anshi/__init__.py
+anshi/account.py
+anshika.egg-info/PKG-INFO
+anshika.egg-info/SOURCES.txt
+anshika.egg-info/dependency_links.txt
+anshika.egg-info/top_level.txt
